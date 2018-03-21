@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jamie Graves
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we created a photo gallery that had functional buttons, and a slideshow effect. This was made by accessing elements using ids, tags, and selectors.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jg15b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to access elements using id, tags, names, and selectors.
+2. What elements can be used to create and interctive and dynamic web page. 
+3. How to make web pages react to interaction like button clicks. 
